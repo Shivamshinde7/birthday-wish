@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Achievement Generator",
+  "description": "A fun, modern, interactive mini game and certificate generator to surprise colleagues who wished you a happy birthday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
